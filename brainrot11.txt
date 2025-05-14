@@ -1,0 +1,11 @@
+REM Author: chickenbox
+REM Description: none
+REM Version: 1.0
+DELAY 800
+GUI r
+DELAY 800
+STRING https://www.youtube.com/watch?v=2aiGY74UStY
+ENTER
+DELAY 2000
+F11
+STRING SeenKid IS THE BEST 
